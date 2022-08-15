@@ -1,3 +1,6 @@
 __pycache__
 .vscode
 .ipynb_checkpoints
+data
+saved/merge_shuffle_df_processed.csv
+saved/merge_shuffle_df.csv
